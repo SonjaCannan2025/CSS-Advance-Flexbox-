@@ -195,14 +195,23 @@ ul{
     font-size: 37px;
     margin: 0;
 }
-.date:nth-child(1){
+.date1{
+    margin: 0;
+    font-size: 37px;
     background-color: #be8542;
+    border-radius: 4px;
 }
-.date:nth-child(2){
+.date2{
+    font-size: 37px;
+    margin: 0;
     background-color: #be6043;
+    border-radius: 4px;
 }
-.date:nth-child(3){
+.date3{
+    font-size: 37px;
+    margin: 0;
     background-color: #bd4260;
+    border-radius: 4px;
 }
 .month{
     margin: 0;
